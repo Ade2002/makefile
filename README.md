@@ -1,0 +1,1 @@
+to create a makefile using VSCODE go to file and select new file and search makefile
